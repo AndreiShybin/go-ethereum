@@ -38,7 +38,7 @@
     "url-loader": "^0.6.2",
     "webpack": "^4.0.0",
     "webpack-dev-server": "^3.1.11",
-    "snyk": "^1.165.0"
+    "snyk": "^1.316.1"
   },
   "scripts": {
     "build": "NODE_ENV=production webpack",
